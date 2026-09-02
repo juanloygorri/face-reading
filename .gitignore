@@ -1,0 +1,11 @@
+# The unencrypted app — never push this, only the encrypted index.html
+builder.html
+
+# Local encryption helper (contains the password)
+encrypt.sh
+
+# StatiCrypt's temporary output folder
+encrypted/
+
+# macOS noise
+.DS_Store
